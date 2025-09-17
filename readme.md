@@ -1,3 +1,7 @@
+# Description
+This is a software to analyze LFIA (Lateral Flow Immunoassay) strips using gold nanoparticle conjugated antibodies for the purpose of detecting therapeutic levels (WPATH) of E2. 
+
+# Setup
 Dataset used to train & test the backend:
 https://www.kaggle.com/datasets/mahdimaktabdar/covid19-lateral-flow-test-images
 
