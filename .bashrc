@@ -1,0 +1,1 @@
+export PATH="./commandlinetools-win-13114758_latest/cmdline-tools/bin:$PATH"
